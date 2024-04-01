@@ -5,13 +5,8 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="700px" />
 </div>
 
-
-
 - 🌱 Atualmente estou aprendendo **CyberSecurança**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://www.notion.so/Projetos-058db381d82d45678457a57d30321bb5?showMoveTo=true&saveParent=true](https://www.notion.so/Projetos-058db381d82d45678457a57d30321bb5?showMoveTo=true&saveParent=true)
-
-- 📫 Como entrar em contato comigo **juan.oliveira411@al.unieduk.com.br**
 ![BairroDeLata GitHub status](https://github-readme-stats.vercel.app/api?username=BairroDeLata&show_icons=true&theme=dark)
 <h3 align="left">Meu contato</h3>
 <p align="left">
