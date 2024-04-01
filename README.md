@@ -2,7 +2,7 @@
 <h3 align="center">Eu estou em treinamento ainda</h3>
 
 <div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+<img src="https://github.com/BairroDeLata/BairroDeLata/issues/3#issue-2218648970" width="700px" />
 </div>
 
 
