@@ -1,7 +1,10 @@
 <h1 align="center">Oi 👋, Eu sou Juan Pedro</h1>
 <h3 align="center">Eu estou em treinamento ainda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bairrodelata" alt="bairrodelata" /></a> </p>
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
+
 
 - 🔭 Atualmente estou trabalhando em **Em nenhum projeto**
 
