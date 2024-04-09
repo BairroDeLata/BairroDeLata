@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Juan Pedro</h1>
+<h1 align="center">👨‍💻 Juan Pedro 👨‍💻</h1>
 <h3 align="center">Eu estou em treinamento ainda</h3>
 
 <div align="center">
